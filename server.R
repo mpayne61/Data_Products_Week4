@@ -1,6 +1,7 @@
 
 # Choose 'USArrests' dataset in the datasets package
 # which is preloaded.
+library(shiny)
 library(datasets)
 library(dplyr)
 
