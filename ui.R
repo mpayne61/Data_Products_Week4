@@ -1,5 +1,6 @@
 # Rely on the 'WorldPhones' dataset in the datasets
 # package (which generally comes preloaded).
+library(shiny)
 library(datasets)
 library(dplyr)
 
